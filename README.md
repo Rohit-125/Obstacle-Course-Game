@@ -1,4 +1,4 @@
-----------------------------------OBSTACLE COURSE GAME -------------------------------------------
+---------------------------------- OBSTACLE COURSE GAME -------------------------------------------
 
 * A simple TPP timed obstacle course game where players can jump through platforms and avoid boxes.
 * Reach to the top of the platform and go through the portal.
